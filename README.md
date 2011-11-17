@@ -18,3 +18,6 @@ Does NOT divide requests among all instances like beeswithmachineguns. If you ru
 
 ## Usage
 rubeeswithuzis -s 4 -n 1000 -c 10 -u http://someurl.com/
+
+## WARNING
+Please use responsibly. Amazon will bring down the banhammer on your account if you abuse. 
