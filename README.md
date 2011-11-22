@@ -10,7 +10,7 @@ Spins up micro EC2 instances and blasts the supplied URL with requests.
 Results from each instance are concatonated and written to results.txt
 
 ## Notes
-Requires ~/.fog to exist. First run of fog binary will spit out sample .fog, or the sample can be found here: https://github.com/geemus/fog/blob/master/lib/fog/core/errors.rb
+Requires ~/.fog to exist. First run of fog binary will spit out sample .fog file.
 
 Assumes you have public key named id_rsa in ~/.ssh
 
